@@ -1,0 +1,6 @@
+# output
+out/
+!samples/out/
+
+# private data
+samples/private/
